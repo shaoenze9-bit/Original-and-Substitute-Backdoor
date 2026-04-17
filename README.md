@@ -61,6 +61,8 @@ Original-and-Substitute-Backdoor/
 ## Invisible Test and Trigger Visualization
 
 ![Invisible Test and Trigger Visualization](images/invisible_test_and_trigger_visualization.png)
+## Backdoored Model Performance
+![Backdoored Model Performance](images/backdoored_model.jpg)
 ## Notes
 This repository is currently intended for research demonstration.
 The project is still under active development.
